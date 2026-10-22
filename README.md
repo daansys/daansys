@@ -1,6 +1,6 @@
 # daansys
 
-**daansys** is a powerful, feature-rich command-line AI assistant powered by Google Gemini and built for .NET Framework 4.7.2. It combines an interactive chat experience with deep system diagnostics, an autonomous coding agent, multi-agent workflows, code linting, and a secure third-party integration gateway (**DaanCourier**).
+**daansys** is a powerful, feature-rich command-line AI assistant powered by Google Gemini and built for .NET Framework 4.7.2. It combines an interactive chat experience with deep system diagnostics, an autonomous coding agent, multi-agent workflows, code linting, and a long list of usable and useful commands and plugins.
 
 ---
 
@@ -23,21 +23,9 @@
 
 ---
 
-## 🚀 DaanCourier (Pro Feature)
-
-**DaanCourier** is an enterprise-grade integration platform exclusively for **Pro** users. It allows external applications, websites, and third-party scripts to securely communicate with your `daansys` environment.
-
-### Capabilities:
-* **Secure API Gateways:** Generate live API keys (`dc_live_...`) to bridge external software with your AI workflows.
-* **Interactive Wizard:** Manage your couriers easily via `/courier` with an intuitive terminal interface.
-* **Role-Based Access Control (RBAC):** Create custom roles and assign granular permissions (e.g., `read`, `write`, `ai:chat`) to third-party clients.
-* **Sub-accounts:** Create isolated sub-accounts with temporary passwords that force a password change upon first login.
-
----
-
 ## 👑 Pro Tier & Support
 
-**daansys** is completely free to use. Upgrading to **Pro** unlocks the **DaanCourier** integration platform, access to Pro-only plugins, and high-performance model allocations.
+**daansys** is completely free to use. Upgrading to **Pro** unlocks the ability to implement special plugins, and high-performance model allocations.
 
 * **How to get Pro:** Send an email request to **[help.daansys@gmail.com](mailto:help.daansys@gmail.com)**.
 
